@@ -1,4 +1,4 @@
-# BillDivision
+# Calculate the Bill Division
 
 Consider a scenario where a group of friends is having a meal at a restaurant. The total cost of the meal is divided equally among the friends. However, one of the friends did not order any item worth the amount that was paid. Your task is to write a Java program that calculates the amount that needs to be refunded to the friend who didn't share in the meal cost.
 

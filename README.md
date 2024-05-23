@@ -10,12 +10,12 @@ The amount paid by each friend (b).
 The program should output an integer representing the amount that needs to be refunded to the friend.
 
 Examples:
-Inputs:  4 1
-		     3 10 2 9 
-		     12
+Input:  4 1
+	 3 10 2 9 
+	 12
 Output:  5
 		 
-Inputs:  4 1
-		     3 10 2 9
-		     7
+Input:  4 1
+	 3 10 2 9
+	 7
 Output:  Bon Appetit
